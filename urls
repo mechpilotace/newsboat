@@ -1,0 +1,44 @@
+#                          _                 _   
+#                         | |               | |  
+#  _ __   _____      _____| |__   ___   __ _| |_ 
+# | '_ \ / _ \ \ /\ / / __| '_ \ / _ \ / _` | __|
+# | | | |  __/\ V  V /\__ \ |_) | (_) | (_| | |_ 
+# |_| |_|\___| \_/\_/ |___/_.__/ \___/ \__,_|\__|
+
+# URLs for RSS feeds
+# Syntax:
+# https://feed.com/rss "News feed"
+
+https://flak.tedunangst.com/rss
+https://lukesmith.xyz/rss.xml
+https://www.youtube.com/feeds/videos.xml?channel_id=UC2eYFnH61tmytImy1mTYvhA
+https://notrelated.libsyn.com/rss
+http://coreyms.com/feed/
+https://www.i-bsd.com/feed.xml
+https://www.romanzolotarev.com/rss.xml "Roman OpenBSD / Webdev Guy"
+https://mwl.io/feed
+http://c0de517e.blogspot.com/feeds/posts/default
+#https://stallman.org/rss/rss.xml
+http://esr.ibiblio.org/?feed=rss2
+http://decafbad.net/feed
+http://openmetalcast.com/feed/					 
+#https://kotaku.com/rss
+https://blog.getpelican.com/feeds/all.atom.xml
+https://nostarch.com/feeds/newbooks.xml
+https://nostarch.com/feeds/comingsoon.xml
+https://www.davidrevoy.com/feed/rss
+https://www.davidrevoy.com/feed/rss/categorie2/webcomics/
+https://www.davidrevoy.com/feed/rss/categorie3/tutorials-brushes-extras
+https://www.hardill.me.uk/wordpress/feed/
+https://www.archlinux.org/feeds/news/
+https://bunnyman.info/index.xml
+https://feeds.hackercodex.com/feeds/main
+http://www.mug.org/feed/
+https://smlr.us/?feed=podcast
+#https://smlr.us/?feed=smlr-ogg
+https://n-o-d-e.net/rss/rss.xml
+https://www.c0ffee.net/rss/
+https://objective-see.com/rss.xml
+http://feeds.feedburner.com/erikdubois
+https://arcolinux.info/feed/
+

@@ -1,0 +1,20 @@
+# This is my newsboat config file
+# -- Navigation ---------------------
+
+bind-key j down feedlist
+bind-key k up feedlist
+bind-key j next articlelist
+bind-key k prev articlelist
+bind-key J next-feed articlelist
+bind-key K prev-feed articlelist
+bind-key j down article
+bind-key k up article
+
+# -- Settings -----------------------
+browser         "safari"
+player          "IINA"
+# download-path   "~/downloads/%n"
+# save-path       "~/downloads"
+# reload-threads  20
+# cleanup-on-quit yes
+# text-width      74
