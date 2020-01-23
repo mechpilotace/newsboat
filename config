@@ -11,8 +11,8 @@ bind-key j down article
 bind-key k up article
 
 # -- Settings -----------------------
-browser         "safari"
-player          "IINA"
+browser /usr/bin/open -a "/Applications/Safari.app" '%u'
+player /usr/bin/open -a "/Applications/IINA.app"
 # download-path   "~/downloads/%n"
 # save-path       "~/downloads"
 # reload-threads  20
